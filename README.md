@@ -3,7 +3,7 @@
 I'm Malthe – a 22-year-old Computer Science student and freelance developer from Aarhus, Denmark.
 
 - 🎓 Studying Computer Science, AP Degree (Datamatiker) at Erhvervsakademi Aarhus (2025 – present)
-- - 🧪 Working as a software developer & tester at [trego.dk](https://trego.dk)
+- 🧪 Working as a software developer & tester at [trego.dk](https://trego.dk)
 - 💻 Building trading strategies and indicators at [Pine-Dev.com](https://pine-dev.com), including for northridgequantpartners.com
 - 🌐 Also build affordable websites for local businesses via [EnkelSite.com](https://enkelsite.com)
 

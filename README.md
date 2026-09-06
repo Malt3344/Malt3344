@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Malt3344/Malt3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Malthe – a 22-year-old Computer Science student and freelance developer from Aarhus, Denmark.
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Science, AP Degree (Datamatiker) at Erhvervsakademi Aarhus (2025 – present)
+- - 🧪 Working as a software developer & tester at [trego.dk](https://trego.dk)
+- 💻 Building trading strategies and indicators at [Pine-Dev.com](https://pine-dev.com), including for northridgequantpartners.com
+- 🌐 Also build affordable websites for local businesses via [EnkelSite.com](https://enkelsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**
+`Java` `JavaScript` `Next.js` `React` `SpringBoot` `MS SQL` `Docker`
+
+**Skills:**
+- Software development – Java + JavaScript
+- Database design – MS SQL
+- Frameworks – Next.js, React, SpringBoot
+- Web development – WordPress
+- Tools – GitHub, VS Code, IntelliJ, Docker
+
+📄 [Full CV](https://malthe-waluga-cv.vercel.app/)
+📫 malthe.schwartz.waluga@gmail.com
+🗣️ Danish, English, German

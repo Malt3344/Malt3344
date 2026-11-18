@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Malthe – a 22-year-old Computer Science student and freelance developer from Aarhus, Denmark.
+I'm Malthe – a 22-year-old AP Computer Science student and freelance developer from Aarhus, Denmark.
 
 - 🎓 Studying Computer Science, AP Degree (Datamatiker) at Erhvervsakademi Aarhus (2025 – present)
 - 🧪 Working as a software developer & tester at [trego.dk](https://trego.dk)
@@ -8,12 +8,12 @@ I'm Malthe – a 22-year-old Computer Science student and freelance developer fr
 - 🌐 Also build affordable websites for local businesses via [EnkelSite.com](https://enkelsite.com)
 
 **Tech stack:**
-`Java` `JavaScript` `Next.js` `React` `SpringBoot` `MS SQL` `Docker`
+`Java` `JavaScript` `Next.js` `SpringBoot` `MS SQL` `Docker`
 
 **Skills:**
 - Software development – Java + JavaScript
 - Database design – MS SQL
-- Frameworks – Next.js, React, SpringBoot
+- Frameworks – Next.js, SpringBoot
 - Web development – WordPress
 - Tools – GitHub, VS Code, IntelliJ, Docker
 
